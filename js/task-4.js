@@ -4,7 +4,7 @@ function getShippingCost(country) {
     case 'China':
       price = 100;
       break;
-    case 'Chike':
+    case 'Chile':
       price = 250;
       break;
     case 'Australia':
